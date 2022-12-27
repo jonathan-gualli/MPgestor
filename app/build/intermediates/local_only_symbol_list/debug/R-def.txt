@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnIngresar
+id txtNombre
+id txtPassword
+id txtTitulo
+id txtxPrueba
+layout activity_main
+layout activity_segunda
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string btnIngresar_String
+string txtContrasenia_String
+string txtNombre_String
+string txtPrueba
+string txtTitulo_String
+style Theme.MPgestor
+xml backup_rules
+xml data_extraction_rules

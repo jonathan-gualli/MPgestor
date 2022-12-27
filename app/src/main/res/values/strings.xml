@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MPgestor</string>
+    <string name="txtNombre_String">Usuario</string>
+    <string name="txtContrasenia_String">Contraseña</string>
+    <string name="btnIngresar_String">Ingresar</string>
+    <string name="txtTitulo_String">MPgestor</string>
+    <string name="txtPrueba">Pasaste el login</string>
 </resources>
